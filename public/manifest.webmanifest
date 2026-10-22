@@ -1,0 +1,14 @@
+{
+  "name": "DashIntel AI",
+  "short_name": "DashIntel",
+  "description": "Delivery intelligence and profit optimization for drivers.",
+  "start_url": "/dashboard/command",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#05070B",
+  "background_color": "#05070B",
+  "icons": [
+    { "src": "/icon", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-icon", "sizes": "180x180", "type": "image/png" }
+  ]
+}

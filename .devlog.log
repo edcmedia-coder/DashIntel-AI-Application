@@ -1,0 +1,102 @@
+▲ Next.js 16.4.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://0.0.0.0:3000
+✓ Ready in 907ms
+✓ Running next.config.ts took 163ms
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+- Experiments (use with caution):
+  · optimizePackageImports
+
+○ Compiling / ...
+⚠ ./src/app/globals.css:8:7
+Warning: Parsing CSS source code failed
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Unknown at rule: @theme
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:8:7
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET / 307 in 970ms (next.js: 466ms, application-code: 503ms)
+⚠ ./src/app/globals.css:8:7
+Warning: Parsing CSS source code failed
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Unknown at rule: @theme
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:8:7
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET / 307 in 74ms (next.js: 4ms, application-code: 70ms)
+⚠ ./src/app/globals.css:8:7
+Warning: Parsing CSS source code failed
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Unknown at rule: @theme
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:8:7
+  [90m 6 |[0m [90m   ========================================================================== */[0m
+  [90m 7 |[0m
+[33m[1m>[0m [90m 8 |[0m @theme {
+  [90m   |[0m       [33m[1m^[0m
+  [90m 9 |[0m   --color-base: #[35m05070[0mb;
+  [90m10 |[0m   --color-surface: #[35m0[0ma1019;
+  [90m11 |[0m   --color-elevated: #[35m0[0md1521;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /login 200 in 216ms (next.js: 40ms, application-code: 176ms)
+[?25h
